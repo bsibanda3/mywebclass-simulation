@@ -4,17 +4,32 @@ IS601-852
 ## Initial Team Formation 
 
 Name: Brandon Sibanda
+
 Slack: @bcs25
+
 Email: bcs25@njit.edu
 
+
 Name: Chun Lo
+
 Slack: @cyl4 
+
 Email: cyl4@njit.edu
+
 
 
 Repository Collaboration – We will utilize one repository and work with numerous branches in our development process.
 
-## Initial Documentation
+## Processed Skill Sets
+
+Brandon's Expertises in: HTML, CSS, moderate Javascript, website testing, Google Analytics & SEO implementation, Internationalization
+Chun's Expertises in: Writing IT documentation, Quality review, website administration, edit wordpress and sharepoint web, use MS flow to automate tasks
+
+## Skills need to be developed
+Brandon - Team improvement, Project Management, Responsive Content Development
+Chun - Coding, Google Analytics & SEO, Internationalization, Project Management
+
+## Team Composition
 
 Development - Chun:
 •	Responsible for creating and updating the textual and multimedia content of a website or application
