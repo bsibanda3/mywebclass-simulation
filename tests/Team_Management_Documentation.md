@@ -4,17 +4,42 @@ IS601-852
 ## Initial Team Formation 
 
 Name: Brandon Sibanda
+
 Slack: @bcs25
+
 Email: bcs25@njit.edu
 
+
 Name: Chun Lo
+
 Slack: @cyl4 
+
 Email: cyl4@njit.edu
+
 
 
 Repository Collaboration – We will utilize one repository and work with numerous branches in our development process.
 
-## Initial Documentation
+## Processed Skill Sets
+
+Brandon's Expertises in: HTML, CSS, moderate Javascript, website testing, Google Analytics & SEO implementation, Internationalization
+Chun's Expertises in: Writing IT documentation, Quality review, website administration, edit wordpress and sharepoint web, use MS flow to automate tasks
+
+## Skills need to be developed
+Brandon - Team improvement, Project Management, Responsive Content Development
+Chun - Coding, Google Analytics & SEO, Internationalization, Project Management
+
+## Team Dynamic 
+
+Brandon and Chun have been working together as part of a team, and their dynamic is characterized by open communication, collaborative problem-solving, and mutual respect. They actively listen to each other's feedback and suggestions, and use tools like Slack and phone calls to frequently share their ideas and opinions during team meetings and brainstorming sessions.
+
+In addition to their excellent communication skills, Brandon and Chun also follow agile development principles and use Trello as their Kanban system to track their development progress. By embracing agile practices, they are able to adapt to changes quickly and deliver value to their clients more efficiently. The use of Trello helps them stay organized and ensures that everyone on the team is aware of what tasks need to be done and when.
+
+When faced with a challenging project, Brandon and Chun divided the workload evenly and used their unique strengths to achieve the best possible outcome. They were able to leverage their open communication and agile approach to ensure that they stayed on track and completed the project on time and to a high standard.
+
+Overall, Brandon and Chun have a positive and productive working relationship, and they consistently demonstrate their ability to work effectively together as part of a team while utilizing agile methodologies and Kanban systems to drive success.
+
+## Team Composition
 
 Development - Chun:
 •	Responsible for creating and updating the textual and multimedia content of a website or application
