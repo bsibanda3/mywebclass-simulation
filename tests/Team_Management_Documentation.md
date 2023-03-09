@@ -22,8 +22,8 @@ Development - Chun:
 •	Designing and developing client-side scripts using JavaScript
 
 Project Management and Analysis – Brandon
-•	Manages project from start to finish, along with testing, to ensure that project stays on track with deadlines.
-•	Discover the requirements for the project and identify goals, tasks, and solutions. 
+•	Manages project from start to finish, along with testing, to ensure that project stays on track with deadlines
+•	Discover the requirements for the project and identify goals, tasks, and solutions
 •	Create documentation for Agile for project document.
 
 Testing and Quality Assurance - Brandon and Chun
@@ -43,4 +43,11 @@ DevOps and SRE - Chun
 •	Develop and implement DevOps and Site Reliability Engineering (SRE) best practices to ensure that the website runs smoothly and reliably
 •	Create and maintain documentation that details the steps required to set up the website in production and development environments
 
+Research and Coordination – Brandon
+•	Research legal compliance with various standards and laws, ensuring website complies with all relevant legal requirements.
+•	Conduct user experience research and create methods for improvement plan
+•	Create improvement plan for improvements within the team and website
 
+Web Optimization – Brandon
+•	Ensuring the website can be adapted to different languages, cultures, and countries. Ensure website can be translated into different languages and is available worldwide
+•	Ensuring optimization of SEO strategies to get highest ranking for website by search engines
