@@ -19,9 +19,9 @@ Email: cyl4@njit.edu
 # Outline
 I. Introduction
 
-    • Definition of repository collaboration in software development
+    • Definition of repository collaboration in MyWebClass.org development
 
-    • Benefits of repository collaboration in software development
+    • Benefits of repository collaboration in MyWebClass.org development
 
 II. Roles and Responsibilities of Team Members
 
@@ -97,13 +97,13 @@ VI. FAQs
 
     • Steps to ensure ongoing success in repository collaboration
 
-# Repository Collaboration: A Path to Ongoing Success in Software Development
+# Repository Collaboration: A Path to Ongoing Success in MyWebClass.org Development
 
 # Introduction
-Collaboration is essential for the success of any team, particularly in software development projects. Repository collaboration refers to the use of a shared repository and various branches to work together in a development process. This article will explore the importance of collaboration in software development, the benefits of repository collaboration, and the roles and responsibilities of team members in this process. Additionally, the article will provide recommendations for ongoing success in repository collaboration and address any challenges the team faced and the solutions implemented to overcome them.
+Collaboration is essential for the success of any team, particularly in MyWebClass.org development. Repository collaboration refers to the use of a shared repository and various branches to work together in a development process. This article will explore the importance of collaboration in MyWebClass.org development, the benefits of repository collaboration, and the roles and responsibilities of team members in this process. Additionally, the article will provide recommendations for ongoing success in repository collaboration and address any challenges the team faced and the solutions implemented to overcome them.
 
-# The Importance of Collaboration in Software Development
-Collaboration is crucial in software development as it allows teams to work together to achieve common goals and overcome challenges. Teams that collaborate effectively have improved communication, increased productivity, and a higher success rate in delivering projects. Collaboration also helps to reduce the risk of conflicts and ensures that everyone is working towards the same objectives.
+# The Importance of Collaboration in MyWebClass.org Development
+Collaboration is crucial in software development as it allows teams to work together to achieve common goals and overcome challenges. Teams that collaborate effectively have improved communication, increased productivity, and a higher success rate in delivering projects. Collaboration also helps to reduce the risk of conflicts and ensures that everyone is working towards the same objectives. Brandon and Chun will utilize Slack and phone calls to frequently share their ideas and opinions during team meetings and brainstorming sessions. Brandon and Chun also follow agile development principles and use Trello as their Kanban system to track their development progress. By embracing agile practices, they are able to adapt to changes quickly and deliver value to their clients more efficiently. The use of Trello helps them stay organized and ensures that everyone on the team is aware of what tasks need to be done and when.
 
 # The Benefits of Repository Collaboration
 Repository collaboration offers numerous benefits for software development teams, including:
@@ -138,7 +138,6 @@ Brandon's Role in Testing and Quality Assurance: Brandon is responsible for deve
 Brandon's Role in Web Optimization: Brandon is responsible for ensuring the website can be adapted to different languages, cultures, and countries and ensuring optimization of SEO strategies to get the highest ranking for the website by search engines.
 
 # Processed Skill Sets
-
 Brandon and Chun each bring unique skills to the team that are essential to the success of the project.
 
 Brandon's Expertises
