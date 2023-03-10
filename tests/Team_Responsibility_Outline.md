@@ -40,8 +40,36 @@ II. Roles and Responsibilities of Team Members
     • Brandon's role in web optimization
 
     • Brandon and Chun's role in web development accessibility for disabilities
+    
+III. Processed Skills Sets
 
-III. Challenges and Solutions
+    • Brandon's Expertises
+    
+        • HTML
+
+        • CSS
+
+        • Moderate JavaScript
+
+        • Website testing
+
+        • Google Analytics & SEO implementation
+    
+        • Internationalization
+
+    • Chun's Expertises
+    
+        • Writing IT documentation
+        
+        • Quality review
+        
+        • Website administration
+        
+        • Editing WordPress and SharePoint web
+
+        • Using MS Flow to automate tasks
+
+IV. Challenges and Solutions
 
     • Difficulty in defining roles and responsibilities
 
@@ -51,13 +79,13 @@ III. Challenges and Solutions
 
     • Solutions to overcome challenges
 
-IV. Conclusion
+V. Conclusion
 
     • Summary of the benefits and importance of repository collaboration in software development
 
     • Steps teams can take to ensure ongoing success in repository collaboration
 
-V. FAQs
+VI. FAQs
 
     • Definition of repository collaboration
 
@@ -109,6 +137,58 @@ Brandon's Role in Testing and Quality Assurance: Brandon is responsible for deve
 
 Brandon's Role in Web Optimization: Brandon is responsible for ensuring the website can be adapted to different languages, cultures, and countries and ensuring optimization of SEO strategies to get the highest ranking for the website by search engines.
 
+# Processed Skill Sets
+
+Brandon and Chun each bring unique skills to the team that are essential to the success of the project.
+
+Brandon's Expertises
+
+    • HTML
+    
+    • CSS
+    
+    • Moderate JavaScript
+    
+    • Website testing
+    
+    • Google Analytics & SEO implementation
+    
+    • Internationalization
+    
+Chun's Expertises
+
+    • Writing IT documentation
+    
+    • Quality review
+    
+    • Website administration
+    
+    • Editing WordPress and SharePoint web
+    
+    • Using MS Flow to automate tasks
+    
+    • Skills Need to be Developed
+
+While each team member has established skills, there are also areas that they can continue to develop to further enhance their abilities.
+
+Brandon's Skills to be Developed
+
+    • Team improvement
+    
+    • Project management
+    
+    • Responsive content development
+
+Chun's Skills to be Developed
+
+    • Coding
+    
+    • Google Analytics & SEO
+    
+    • Internationalization
+    
+    • Project management
+
 # Challenges and Solutions
 Despite the benefits of repository collaboration, teams may face challenges during the formation or early stages of working together. Some common challenges include:
 
@@ -118,7 +198,7 @@ Lack of Communication and Collaboration: Teams may struggle with communication a
 
 Inefficient Processes and Procedures: Teams may struggle with inefficient processes and procedures, leading to decreased productivity and efficiency.
 
-* To address these challenges, teams can implement solutions such as:
+- To address these challenges, teams can implement solutions such as:
 
 Clearly Defining Roles and Responsibilities: Teams should clearly define the roles and responsibilities of each team member to minimize confusion and inefficiencies.
 
