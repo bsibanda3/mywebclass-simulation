@@ -11,7 +11,8 @@ Productivity Log:
 | Team Improvement Plan         |              | https://github.com/bsibanda3/mywebclass-simulation/issues/19 | Todo        | Brandon          | 03/20       |              | Team Improvement Plan                                                         |              |
 | DevOps and SRE                |              | https://github.com/bsibanda3/mywebclass-simulation/issues/20 | Todo        | Brandon          | 03/20       |              | DevOps and SRE Research Implementation, Testing and Issue Resolution          |              |
 | Playwright Testing            |              | https://github.com/bsibanda3/mywebclass-simulation/issues/17 | In Progress | Chun and Brandon | 03/20       |              | Website testing                                                               |              |
-| Legal Privacy Policy          |              | https://github.com/bsibanda3/mywebclass-simulation/issues/13 | Todo        | Brandon          | 03/20       |              | Website Legal Research, Implementation, Testing                               |              |
+| Legal Privacy Policy          |              | https://github.com/bsibanda3/mywebclass-simulation/issues/13 | In Progress | Brandon          | 03/20       |              | Website Legal Research, Implementation, Testing                               |              |
 | Google Analytics and GDPR     |              | https://github.com/bsibanda3/mywebclass-simulation/issues/16 | Todo        | Brandon          | 03/20       |              | Website Legal Research, Implementation, Testing                               |              |
+| Create Productivity log       |              | https://github.com/bsibanda3/mywebclass-simulation/issues/23 | In Progress | Brandon          | 03/20       |              | Project Management                                                            |              |
 
 
