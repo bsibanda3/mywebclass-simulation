@@ -1,6 +1,6 @@
 Privacy Policy for MyWebClass
 
-Effective Date: 03/20/2022
+Effective Date: 03/20/2023
 
 At MyWebClass, we take your privacy seriously. This privacy policy explains how we collect, use, and protect your personal information. By using our website, you consent to our privacy policy.
 
@@ -44,4 +44,4 @@ We may update this privacy policy from time to time. If we make significant chan
 
 Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at bcs25@njit.edu
+If you have any questions or concerns about this privacy policy, please contact us at bcs25@njit.edu or cyl4@njit.edu
