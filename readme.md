@@ -65,3 +65,4 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 # ADD YOUR PROJECT LINKS BELOW THIS 
 [Wiki Page] (https://github.com/bsibanda3/mywebclass-simulation/wiki)
+[Website] (https://bsibanda3.github.io/mywebclass-simulation/)
