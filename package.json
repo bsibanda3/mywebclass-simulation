@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NJIT-WIS/mywebclass.git"
+    "url": "git+https://github.com/bsibanda3/mywebclass.git"
   },
   "author": "Keith Williams @ NJIT.EDU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NJIT-WIS/mywebclass/issues"
+    "url": "https://github.com/bsibanda3/mywebclass/issues"
   },
-  "homepage": "https://github.com/NJIT-WIS/mywebclass#readme",
+  "homepage": "https://github.com/bsibanda3/mywebclass#readme",
   "devDependencies": {
     "@playwright/test": "^1.31.1",
     "autoprefixer": "^10.4.13",
@@ -61,6 +61,5 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6"
-  },
-  "keywords": []
+  }
 }
